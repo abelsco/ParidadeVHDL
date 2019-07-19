@@ -1,0 +1,15 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/Abel Menezes/Google Drive/LOGICA RECONFIGURAVEL/CODIGOS/PARIDADE/CODE6_1.vhd
+source_file = 1, C:/Users/Abel Menezes/Google Drive/LOGICA RECONFIGURAVEL/CODIGOS/PARIDADE/Waveform.vwf
+source_file = 1, C:/Users/Abel Menezes/Google Drive/LOGICA RECONFIGURAVEL/CODIGOS/PARIDADE/db/CODE6_1.cbx.xml
+source_file = 1, c:/altera/13.0/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/altera/13.0/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/altera/13.0/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/altera/13.0/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = CODE6_1
+instance = comp, \output~output , output~output, CODE6_1, 1
+instance = comp, \input[2]~input , input[2]~input, CODE6_1, 1
+instance = comp, \input[0]~input , input[0]~input, CODE6_1, 1
+instance = comp, \input[1]~input , input[1]~input, CODE6_1, 1
+instance = comp, \input[3]~input , input[3]~input, CODE6_1, 1
+instance = comp, \conta~0 , conta~0, CODE6_1, 1

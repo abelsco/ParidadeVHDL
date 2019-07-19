@@ -1,0 +1,12 @@
+|CODE6_1
+input[0] => conta.OUTPUTSELECT
+input[1] => conta.OUTPUTSELECT
+input[1] => conta.OUTPUTSELECT
+input[1] => conta.OUTPUTSELECT
+input[2] => conta.OUTPUTSELECT
+input[2] => conta.OUTPUTSELECT
+input[3] => Add0.IN2
+input[3] => conta.DATAA
+output <= conta.DB_MAX_OUTPUT_PORT_TYPE
+
+

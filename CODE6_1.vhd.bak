@@ -1,0 +1,11 @@
+LIBRARY ieee;
+USE ieee.std_logic_1164.all;
+
+ENTITY CODE6_1 IS
+	PORT(
+		input: BIT_VECTOR(7 DOWNTO 0);
+		output: BIT
+	);
+END;
+
+ARCHITECTURE Corpo OF CODE6_1 IS
